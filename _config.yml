@@ -1,1 +1,2 @@
-theme: minimal-mistakes-jekyll
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
