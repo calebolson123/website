@@ -56,16 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Caleb Olson"
+  # name   : "Caleb Olson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software engineer by day, janky side projects by night."
+  bio    : "Mostly side projects."
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCzxiOKO3vX1ER_U3Z_eY_yw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/calebolson123"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/caleb-olson-a61a1981"
