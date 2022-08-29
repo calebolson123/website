@@ -1,6 +1,6 @@
 ---
 title: "Dog Poop Detector"
-date: 2022-08-29T11:30:30-04:00
+date: 2022-01-14T11:30:30-04:00
 categories:
   - blog
 tags:

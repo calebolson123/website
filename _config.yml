@@ -58,7 +58,7 @@ plugins:
 author:
   # name   : "Caleb Olson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mostly side projects."
+  bio    : "Mostly janky projects."
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
