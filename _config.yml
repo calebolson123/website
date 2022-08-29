@@ -72,6 +72,13 @@ author:
     - label: "$5.00 tip"
       icon: "fab fa-fw fa-hand-holding-heart"
       url: "https://buy.stripe.com/aEUaI7d077u5e5ycMN"
+    - label: "$10.00 tip"
+      icon: "fa-hand-holding-usd"
+      url: "https://buy.stripe.com/eVa17xgcj3dP2mQ8wy"
+    - label: "$25.00 tip"
+      icon: "fab fa-fw fa-hand-holding-usd"
+      url: "https://buy.stripe.com/28odUjbW38y96D6dQT"
+      
 
 
 # <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$5.00 tip</a>
