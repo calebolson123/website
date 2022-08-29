@@ -1,10 +1,6 @@
 main:
   - title: "Home"
     url: /home/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
   - title: "Support"
     url: /support/
   - title: "Contact"
