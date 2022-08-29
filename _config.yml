@@ -70,21 +70,14 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/caleb-olson-a61a1981"
     - label: "$5.00 tip"
-      icon: "fab fa-fw fa-hand-holding-heart"
+      icon: "fa fa-hand-holding-usd"
       url: "https://buy.stripe.com/aEUaI7d077u5e5ycMN"
     - label: "$10.00 tip"
-      icon: "fa-hand-holding-usd"
+      icon: "fa fa-hand-holding-usd"
       url: "https://buy.stripe.com/eVa17xgcj3dP2mQ8wy"
     - label: "$25.00 tip"
-      icon: "fab fa-fw fa-hand-holding-usd"
+      icon: "fa fa-hand-holding-usd"
       url: "https://buy.stripe.com/28odUjbW38y96D6dQT"
-      
-
-
-# <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$5.00 tip</a>
-# <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$10.00 tip</a>
-# <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$25.00 tip</a>
-
   
 footer:
   links:
