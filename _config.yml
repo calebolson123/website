@@ -26,7 +26,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -69,7 +69,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/caleb-olson-a61a1981"
+    - label: "$5.00 tip"
+      icon: "fa-solid fa-hand-holding-dollar"
+      url: "https://buy.stripe.com/aEUaI7d077u5e5ycMN"
 
+
+# <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$5.00 tip</a>
+# <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$10.00 tip</a>
+# <a href="https://buy.stripe.com/aEUaI7d077u5e5ycMN" class="btn btn--primary">$25.00 tip</a>
+
+  
 footer:
   links:
     - label: "Youtube"
@@ -102,9 +111,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
+# category_archive:
+#   type: liquid
+#   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
