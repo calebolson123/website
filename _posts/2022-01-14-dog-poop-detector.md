@@ -19,5 +19,5 @@ I [open sourced the code for this project][project-code]. Feel free to pull it d
 
 Feel free to reach out if you have any questions and I'll try to help where I can.
 
-[project-code]: https://github.com/calebolson123
+[project-code]: https://github.com/calebolson123/DogPoopDetector
 [deep-lab-cut]: https://github.com/DeepLabCut/DeepLabCut
