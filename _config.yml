@@ -56,9 +56,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
 
-header:
-  image: /assets/images/twinkie_banner.jpg
-
 author:
   # name   : "Caleb Olson"
   avatar : "/assets/images/bio-photo.jpg"
