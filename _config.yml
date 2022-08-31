@@ -105,8 +105,6 @@ defaults:
       share: true
       related: true
       show_date: true
-      header:
-        overlay_image: /assets/images/twinkie_banner.jpg
   # _pages
   - scope:
       path: "_pages"
