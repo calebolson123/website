@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /home/
+  - title: "Downloads"
+    url: /downloads/
   - title: "Support"
     url: /support/
   - title: "Contact"
