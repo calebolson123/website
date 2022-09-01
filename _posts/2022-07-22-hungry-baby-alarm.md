@@ -11,7 +11,7 @@ tags:
   - Alarm
 ---
 
-I recently became a new father and have been experiencing what everyone always warns you about, sleep deprivation. Refusing to be beaten by a baby, I had the idea to build The Hungry Baby Alarm, which could alert me when my baby was likely to cry for food soon. The idea hinges on the ability to bottle feed my baby before he cries, waking everyone up.
+I recently became a father and have been experiencing what everyone always warns you about, sleep deprivation. Refusing to be beaten by a baby, I had the idea to build The Hungry Baby Alarm, which could alert me when my baby was likely to cry for food soon. The idea hinges on the ability to bottle feed my baby before he cries, waking everyone up.
 
 Check out the project:
 
