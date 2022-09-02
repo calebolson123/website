@@ -14,7 +14,7 @@ I got laid off recently, just before I was about to go on parental leave. Aside 
 
 Check out the project:
 
-{% include video id="???" provider="youtube" %}
+{% include video id="YlSHJylk2Co" provider="youtube" %}
 
 This is likely illegal to use in public, and it's kind of a creepy thing to have running in your pocket. For what it's worth, [I open-sourced the project so you can see everything that's going on for yourself][github], however I explain most of the details in the video.
 
