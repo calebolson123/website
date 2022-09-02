@@ -16,7 +16,7 @@ Check out the project:
 
 {% include video id="YlSHJylk2Co" provider="youtube" %}
 
-This is likely illegal to use in public, and it's kind of a creepy thing to have running in your pocket. For what it's worth, [I open-sourced the project so you can see everything that's going on for yourself][github], however I explain most of the details in the video.
+This is likely illegal to use in public, and in general is kind of a creepy thing to have running in your pocket. For what it's worth, [I open-sourced the project so you can see everything that's going on for yourself][github], however I explain most of the details in the video.
 
 [github]: https://github.com/calebolson123/WhatsYourName
-[app-download]: https://github.com/calebolson123/WhatsYourName/raw/main/WhatsYourName/app/release/app-release.apk
+[app-download]: https://calebolson.com/downloads
