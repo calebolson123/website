@@ -1,5 +1,5 @@
 ---
-title: "The AI Baby Sleep Coach"
+title: "The Baby Sleep Coach"
 date: 2023-02-15T11:30:30-04:00
 categories:
   - blog
