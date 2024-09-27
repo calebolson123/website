@@ -15,7 +15,7 @@ tags:
 
 I had a blast unveiling The Poopcopter at [at Minnedemo40][minnedemo40]. Thanks to those who attended and cheered for the flying poop machine. For those who missed it, you can catch the full demo in the video linked below
 
-{% include video id="5d6AqMbcJcE1NSsG" provider="youtube" %}
+{% include video id="nchw8_siDOM" provider="youtube" %}
 
 Thank you to everyone who attended, spoke to me after, and offered words of encouragement. And an extra thank you to those few sweaty nerds who have helped me over the last year in the development of this project. I'm excited to see where the project goes next. Don't hesitate to reach out (calebolsonwebsite@gmail.com) if you want to connect or discuss The Poopcopter.
 
