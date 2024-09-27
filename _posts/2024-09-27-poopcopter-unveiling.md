@@ -20,3 +20,5 @@ I had a blast unveiling The Poopcopter at [at Minnedemo40][minnedemo40]. Thanks 
 Thank you to everyone who attended, spoke to me after, and offered words of encouragement. And an extra thank you to those few sweaty nerds who have helped me over the last year in the development of this project. I'm excited to see where the project goes next. Don't hesitate to reach out (calebolsonwebsite@gmail.com) if you want to connect or discuss The Poopcopter.
 
 Stay tuned for more updates, I'll likely put together an edited production grade YouTube video with more complete footage and showcasing of capabilities in the near future.
+
+[minnedemo40]: https://minnestar.org/announcing-the-presenters-of-minnedemo-40/
