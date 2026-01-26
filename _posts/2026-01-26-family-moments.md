@@ -9,7 +9,7 @@ tags:
   - Machine Learning
   - Family
   - AI
-  - Draw
+  - Memories
 ---
 
 Over winter break I noticed my wife taking notes of noteworthy, cute, or in some way memorable moments in our children's upbringing. This led me to poking around online to see if any technology existed which enabled a better means of capturing these kinds of moments and memories.
